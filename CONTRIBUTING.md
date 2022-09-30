@@ -8,17 +8,17 @@ How to contribute ?
 [
   {
 
-    "id": "128",
+    "id": "420",
 
-    "blogTitle": "How to apply for GDSC",
+    "blogTitle": "Bitcoin - New Currency",
 
-    "source": "Medium.com",
+    "source": "Youtube.com",
 
-    "autherName": "GDSC BSIOTR",
+    "autherName": "GDSC",
 
-    "blogTags": ["Open Source", " android Developement", "HACKTOBER"],
+    "blogTags": ["Open Source", "Blockchain", "HACKTOBER"],
 
-    "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+    "link": "https://www.youtube.com/watch?v=rYQgy8QDEBI&ab_channel=Mrwhosetheboss"
 
 },
 ]
